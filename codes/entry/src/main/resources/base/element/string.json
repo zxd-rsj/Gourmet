@@ -11,6 +11,18 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_notice",
+      "value": "消息"
+    },
+    {
+      "name": "tab_profile",
+      "value": "我的"
     }
   ]
 }
